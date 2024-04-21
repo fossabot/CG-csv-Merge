@@ -1,4 +1,6 @@
 # CG csv Merge 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsxjeru%2FCG-csv-Merge.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsxjeru%2FCG-csv-Merge?ref=badge_shield)
+
 Merge some Galgame CG images, which often include a large original picture and some small pictures with only difference parts, and a csv file. 
 
 此程序可用于批量合并某些带有 csv 文件的 Galgame CG 差分图，使其仅包含差异部分的图片与原图合并成一张新图片并存储。
@@ -96,3 +98,7 @@ Merge some Galgame CG images, which often include a large original picture and s
 当然，也感谢『俺の恋天使がポンコツすぎてコワ～い。』这部优秀的作品，让咱能产生这样的想法。
 
 如果你对这部作品感兴趣，可以前往咱的[博客](https://blog.sxjeru.top/post/6/)看看，有惊喜哦~
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsxjeru%2FCG-csv-Merge.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsxjeru%2FCG-csv-Merge?ref=badge_large)
